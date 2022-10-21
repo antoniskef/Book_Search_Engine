@@ -23,4 +23,6 @@ c)
 Anything can be searched from the BX-Books.csv using Elasticsearch by clicking the "SEARCH" button 
 ![image](https://user-images.githubusercontent.com/93796754/197301225-b2f95543-ecac-4f68-8211-c575e2be2a75.png)
 
+![image](https://user-images.githubusercontent.com/93796754/197302586-f70148ee-da64-4e38-a1ba-77df0d38561f.png)
+
 
