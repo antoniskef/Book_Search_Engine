@@ -1,0 +1,1397 @@
+,uid,location,age,rating
+0,2,"stockton, california, usa",18.0,0
+1,36,"montreal, quebec, canada",24.0,0
+2,75,"long beach, california, usa",37.0,0
+3,75,"long beach, california, usa",37.0,0
+4,439,"tiburon, california, usa",,0
+5,1012,"covington, louisiana, usa",,0
+6,1087,"birmingham, alabama, usa",46.0,0
+7,1098,"astoria, new york, usa",,0
+8,1270,"hartford, connecticut, usa",33.0,0
+9,1687,"champaign, illinois, usa",47.0,0
+10,1723,"danbury, connecticut, usa",40.0,0
+11,1948,"acworth, georgia, usa",34.0,0
+12,2555,"turnersville, new jersey, usa",,0
+13,2555,"turnersville, new jersey, usa",,0
+14,2616,"fairbanks, alaska, usa",,0
+15,3027,"swindon, wilts, england, united kingdom",41.0,0
+16,3071,"portland, oregon, usa",,0
+17,3079,"asheville, north carolina, usa",,0
+18,3093,"belle plaine, iowa, usa",46.0,0
+19,3496,"omaha, nebraska, usa",,0
+20,3510,"nederland, colorado, usa",57.0,0
+21,3677,"darlington, south carolina, usa",2.0,0
+22,4973,"toronto, ontario, canada",29.0,0
+23,4973,"toronto, ontario, canada",29.0,0
+24,5234,"falmouth, maine, usa",,0
+25,5277,"bangsar, kuala lumpur, malaysia",26.0,0
+26,5462,"denton, texas, usa",,3
+27,5756,"welshpool, west australia, australia",36.0,0
+28,5783,"fullerton, california, usa",32.0,0
+29,6129,"charleston, south carolina, usa",30.0,0
+30,6231,"montclair, new jersey, usa",,0
+31,6884,"north liberty, indiana, usa",25.0,0
+32,7384,"miami, florida, usa",28.0,0
+33,7773,"olympia, washington, usa",37.0,0
+34,8222,"alexandria, virginia, usa",46.0,0
+35,8661,"north hollywood, california, usa",,0
+36,9592,"eugene, oregon, usa",40.0,0
+37,9863,"sussex, new brunswick, canada",,0
+38,9876,"forest hills, new york, usa",,0
+39,9896,"gibbon, nebraska, usa",,0
+40,9942,"minneapolis, minnesota, usa",34.0,0
+41,10182,"gove, kansas, usa",,0
+42,10203,"minneapolis, minnesota, usa",,0
+43,10265,"ormond beach, florida, usa",19.0,0
+44,10598,"bradford, west yorkshire, united kingdom",29.0,0
+45,10638,"helsinki, uusimaa, finland",,0
+46,10734,"victoria, british columbia, canada",,0
+47,10734,"victoria, british columbia, canada",,2
+48,11359,"newberg, ,",,0
+49,11370,"shanghai, shanghai, china",,0
+50,11390,"albany, new york, usa",93.0,0
+51,11696,"columbus, ohio, usa",,0
+52,11864,"london, england, united kingdom",,0
+53,12319,"wolfeboro, new hampshire, usa",,0
+54,12374,"st. paul, minnesota, usa",20.0,0
+55,12374,"st. paul, minnesota, usa",20.0,0
+56,12395,"ann arbor, michigan, usa",48.0,0
+57,12529,"orlando, florida, usa",20.0,3
+58,12671,"oceanside, new york, usa",,0
+59,12893,"north vancouver, british columbia, canada",,0
+60,12954,"sachse, texas, usa",,0
+61,13140,"pleasant grove, utah, usa",27.0,0
+62,13889,"colton, california, usa",23.0,0
+63,14193,"victoria, british columbia, canada",27.0,0
+64,14238,"homer, alaska, usa",,0
+65,14350,"sumner, washington, usa",,0
+66,14371,"east ridge, tennessee, usa",,0
+67,14673,"leesburg, virginia, usa",16.0,0
+68,14980,"voss, n/a, norway",,0
+69,15187,"chicago, illinois, usa",29.0,0
+70,15258,"livonia, michigan, usa",26.0,1
+71,15258,"livonia, michigan, usa",26.0,0
+72,15303,"austin, texas, usa",25.0,0
+73,15429,"peterborough, ontario, canada",54.0,0
+74,15436,"athabasca, alberta, canada",,0
+75,15790,"fairfield, pennsylvania, usa",,2
+76,15857,"portland, oregon, usa",,0
+77,16372,"fitchburg, massachusetts, usa",,0
+78,16387,"austin, ,",,0
+79,16537,"seattle, washington, usa",,1
+80,16729,"brooklyn, new york, usa",15.0,0
+81,16753,"miami, florida, usa",,0
+82,16764,"walnut creek, california, usa",,0
+83,16774,"morrow, georgia, usa",,3
+84,16796,"kittery, maine, usa",79.0,0
+85,16965,"alton, illinois, usa",45.0,0
+86,17110,"needham, massachusetts, usa",48.0,0
+87,17464,"farmington, new mexico, usa",64.0,0
+88,17785,"scottsdale, arizona, usa",,0
+89,17961,"rhinelander, wisconsin, usa",26.0,0
+90,18020,"west point, new york, usa",,0
+91,19202,"utrecht, utrecht, netherlands",,0
+92,19373,"dayton, ohio, usa",26.0,0
+93,19448,"melbourne, victoria, australia",49.0,0
+94,19484,"charleston, west virginia, usa",55.0,0
+95,19531,"indianapolis, indiana, usa",,0
+96,19688,"ypsilanti, michigan, usa",,0
+97,20308,"virginia beach, virginia, usa",26.0,0
+98,20450,"bombay, mah, india",1.0,0
+99,20601,"bozeman, montana, usa",19.0,0
+100,21165,"wake forest, north carolina, usa",35.0,0
+101,21605,"west vancouver, british columbia, canada",,0
+102,21676,"redkey, indiana, usa",36.0,0
+103,21698,"prince george, british columbia, canada",,0
+104,21978,"st. albert, alberta, canada",34.0,0
+105,22415,"melbourne, victoria, australia",36.0,0
+106,22879,"burlington, vermont, usa",,0
+107,23217,"somerset, n/a, bermuda",19.0,0
+108,23246,"berkeley, california, usa",15.0,0
+109,23382,"capital federal, buenos aires, argentina",20.0,0
+110,23560,"florianopolis, santa catarina, brazil",,3
+111,23620,"bellevue, washington, usa",,0
+112,24164,"mackay, queensland, australia",20.0,0
+113,24189,"tampa, florida, usa",45.0,0
+114,24505,"tsawwassen, british columbia, canada",,0
+115,24550,"lancaster, new york, usa",26.0,0
+116,24623,"san jose, california, usa",,0
+117,24686,"global city, dc, usa",,0
+118,24734,"valley view, ohio, usa",51.0,0
+119,24888,"ephrata, pennsylvania, usa",28.0,0
+120,24908,"long beach, california, usa",55.0,0
+121,25121,"mansfield, pennsylvania, usa",21.0,0
+122,25673,"frankfurt, hesse, germany",,1
+123,25748,"hillsboro, oregon, usa",,0
+124,25965,"eugene, oregon, usa",,0
+125,26138,"tulsa, ,",32.0,0
+126,26213,"grapevine, , usa",34.0,0
+127,26743,"kingwood, texas, usa",40.0,3
+128,26877,"seattle, washington, usa",36.0,0
+129,27088,"lake zurich, illinois, usa",29.0,0
+130,27348,"fayetteville, arkansas, usa",,0
+131,27436,"sacramento, california, usa",,0
+132,27718,"blublub city, n/a, belize",123.0,0
+133,27850,"thomasboro, illinois, usa",,0
+134,27938,"edmonton, alberta, canada",58.0,0
+135,27946,"raleigh, north carolina, usa",,0
+136,28186,"tring, england, united kingdom",44.0,0
+137,28225,"scarborough, maine, usa",53.0,0
+138,28465,"raleigh, north carolina, usa",,0
+139,28575,"stow, ohio, usa",,0
+140,29041,"york, pennsylvania, usa",,0
+141,29150,"thousand oaks, california, usa",41.0,0
+142,29298,"waltham, massachusetts, usa",66.0,0
+143,29298,"waltham, massachusetts, usa",66.0,0
+144,29451,"oslo, oslo, norway",27.0,0
+145,29489,"ypsilanti, michigan, usa",32.0,0
+146,29895,"chapel hill, north carolina, usa",,0
+147,30028,"iowa city, iowa, usa",,0
+148,30187,"anniston, alabama, usa",,0
+149,30232,"new orleans, louisiana, usa",32.0,0
+150,30239,"waterloo, ontario, canada",,0
+151,30270,"waukesha, wisconsin, usa",42.0,0
+152,30349,"wakefield, west yorkshire, united kingdom",44.0,0
+153,31151,"port orchard, washington, usa",,0
+154,31426,"buffalo grove, illinois, usa",,0
+155,31856,"mount forest, ontario, canada",,0
+156,32106,"conroe, , usa",,0
+157,32224,"chippewa falls, wisconsin, usa",16.0,0
+158,32272,"virginia beach, virginia, usa",,0
+159,32274,"portland, oregon, usa",,0
+160,32287,"palos hills, illinois, usa",16.0,0
+161,32498,"istanbul, n/a, turkey",,0
+162,32527,"greensburg, indiana, usa",41.0,0
+163,32691,"greenville, south carolina, usa",53.0,2
+164,32929,"san jose, california, usa",,0
+165,33130,"maple ridge, british columbia, canada",,0
+166,33133,"los angeles, california, usa",,0
+167,33318,"pasco, washington, usa",33.0,0
+168,33431,"toronto, ontario, canada",40.0,0
+169,34038,"st. louis, ,",,0
+170,34100,"toronto, ontario, canada",,0
+171,34548,"slidell, louisiana, usa",,0
+172,34621,"bellport, new york, usa",44.0,0
+173,35028,"guelph, ontario, canada",,0
+174,35477,"san francisco, california, usa",,0
+175,35507,"lexington, ,",,0
+176,35526,"andover, minnesota, usa",,0
+177,35621,"austin, texas, usa",32.0,0
+178,35829,"moncton, new brunswick, canada",,0
+179,35930,"orange, california, usa",,0
+180,36124,"goodyear, az, usa",,1
+181,36124,"goodyear, az, usa",,3
+182,36124,"goodyear, az, usa",,0
+183,36124,"goodyear, az, usa",,0
+184,36198,"aylmer, ontario, canada",45.0,0
+185,36305,"victoria, british columbia, canada",,0
+186,36616,"adelaide, n/a, australia",41.0,0
+187,36709,"belleville, ontario, canada",24.0,0
+188,36766,"washington, missouri, usa",64.0,0
+189,36947,"beavercreek, ohio, usa",,0
+190,37150,"denver, colorado, usa",,0
+191,37543,"gatineau, canada, canada",,1
+192,37826,"san jose, california, usa",,0
+193,38083,"surrey, british columbia, canada",,0
+194,38400,"vero beach, florida, usa",,0
+195,38475,"pachuca, , mexico",22.0,0
+196,38634,"london, ontario, canada",21.0,3
+197,39032,"kingston, ontario, canada",,0
+198,39073,"burlington, vermont, usa",,0
+199,39116,"niskayuna, new york, usa",,0
+200,39523,"dale, texas, usa",77.0,0
+201,39555,"hamilton, ontario, canada",26.0,0
+202,39967,"erlanger, kentucky, usa",,0
+203,40345,"mesa, arizona, usa",56.0,0
+204,41282,"tucson, arizona, usa",,0
+205,41483,"ittigen, bern, switzerland",30.0,0
+206,41601,"altoona, pennsylvania, usa",54.0,0
+207,41619,"pineville, west virginia, usa",,0
+208,41685,"fargo, north dakota, usa",,0
+209,42194,"shreveport, louisiana, usa",56.0,0
+210,42455,"st. louis, missouri, usa",,0
+211,42758,"edmonds, washington, usa",20.0,0
+212,42770,"lisboa, lisboa, portugal",25.0,0
+213,42770,"lisboa, lisboa, portugal",25.0,0
+214,42874,"seal beach, california, usa",35.0,0
+215,43116,"benicia, california, usa",,0
+216,43132,"kendall park, new jersey, usa",38.0,0
+217,43236,"sydney, new south wales, australia",25.0,0
+218,43439,"san francisco, california, usa",,0
+219,43496,"fort worth,tx, texas, usa",,0
+220,43530,"columbus, ohio, usa",43.0,0
+221,43549,"godfrey, illinois, usa",59.0,0
+222,43694,"high wycombe, england, united kingdom",37.0,0
+223,43694,"high wycombe, england, united kingdom",37.0,0
+224,43735,"edmonton, alberta, canada",,0
+225,43945,"san diego, california, usa",,0
+226,43981,"richardson, texas, usa",,0
+227,44079,"silver spring, ,",,0
+228,44264,"torrance, california, usa",,0
+229,44268,"digby, nova scotia, canada",38.0,0
+230,44881,"saint louis, missouri, usa",24.0,0
+231,44990,"san francisco, california, usa",37.0,0
+232,45430,"lake oswego, oregon, usa",41.0,0
+233,45430,"lake oswego, oregon, usa",41.0,0
+234,45430,"lake oswego, oregon, usa",41.0,0
+235,45660,"emu plains, new south wales, australia",31.0,0
+236,45790,"miami, florida, usa",47.0,0
+237,47475,"toronto, ontario, canada",19.0,0
+238,47547,"charlottesville, virginia, usa",36.0,0
+239,47608,"council bluffs, iowa, usa",18.0,3
+240,47912,"douglasville, georgia, usa",33.0,0
+241,48006,"someplace outback, victoria, australia",35.0,0
+242,48010,"chicago, illinois, usa",,0
+243,48278,"toronto, ontario, canada",,0
+244,49170,"hot springs, south dakota, usa",,0
+245,49589,"groton, connecticut, usa",28.0,0
+246,49689,"halifax, nova scotia, canada",22.0,0
+247,49743,"troutman, north carolina, usa",61.0,0
+248,49975,"milpitas, california, usa",36.0,0
+249,50224,"campbell river, british columbia, canada",,0
+250,50833,"calgary, alberta, canada",43.0,0
+251,51006,"columbia, missouri, usa",,0
+252,51618,"bethlehem, new hampshire, usa",,0
+253,51977,"portland, oregon, usa",,3
+254,52100,"cary, north carolina,",,0
+255,52623,"woodinville, washington, usa",17.0,0
+256,52897,"oswego, new york, usa",47.0,0
+257,53093,"brasilia, df, brazil",,0
+258,53216,"cranford, new jersey, usa",25.0,0
+259,53344,"san jose, california, usa",43.0,0
+260,53566,"westerville, ohio, usa",19.0,0
+261,53752,"perth, western australia, australia",27.0,0
+262,54271,"strasburg, colorado, canada",,0
+263,54289,"petaluma, california, usa",,0
+264,54404,"owen sound, ontario, canada",22.0,0
+265,54529,"huntington beach, california, usa",53.0,0
+266,54777,"alexandria, virginia, usa",,0
+267,55362,"charlottesville, virginia, usa",,0
+268,55696,"houston, texas, usa",,0
+269,56069,"san francisco, california, usa",,0
+270,56072,", ,",,3
+271,56151,"hacienda heights, california, usa",54.0,0
+272,56155,"sacramento, , usa",,0
+273,56196,"mcalester, oklahoma, usa",,0
+274,56305,"denver, colorado, usa",,0
+275,56581,"kalamazoo, michigan, usa",29.0,0
+276,56657,"renmark, south australia, australia",34.0,0
+277,56848,"st. louis, missouri, usa",22.0,0
+278,57311,"washoe valley, nevada, usa",43.0,0
+279,57511,"albenga, liguria, italy",,0
+280,57996,"abbotsford, ,",,0
+281,58147,"los angeles, california, usa",21.0,0
+282,58404,"reva, virginia, usa",56.0,0
+283,58422,"lodi, new jersey, usa",,0
+284,58440,"snellville, georgia, usa",,0
+285,58440,"snellville, georgia, usa",,0
+286,58528,"chicago, illinois, usa",25.0,0
+287,58675,"vancouver, connecticut, costa rica",,0
+288,58706,"broomall, pennsylvania, usa",,0
+289,58747,"arvada, colorado, usa",36.0,0
+290,58874,"toronto, ontario, canada",,0
+291,59192,"sacramento, california, usa",37.0,0
+292,59192,"sacramento, california, usa",37.0,0
+293,59192,"sacramento, california, usa",37.0,0
+294,59471,"reading, england, united kingdom",,0
+295,59699,"fort worth, texas, usa",38.0,0
+296,60481,"dallas, texas, usa",59.0,0
+297,60624,"barberton, ohio, usa",42.0,0
+298,60733,"bangalore, karnataka, india",29.0,0
+299,60807,"perth, western australia, australia",57.0,0
+300,61072,"new york city, new york, usa",33.0,0
+301,61109,"ridgefield, connecticut, usa",35.0,0
+302,61513,"santa ana, california, usa",,0
+303,61536,"highlands ranch, colorado, usa",46.0,0
+304,61612,"turlock, california, usa",37.0,0
+305,61888,"phoenix, arizona, usa",46.0,0
+306,61888,"phoenix, arizona, usa",46.0,0
+307,61920,"forest ranch, california, usa",,0
+308,62113,"newark, delaware, usa",49.0,0
+309,62294,"state college, pennsylvania, usa",,0
+310,62571,"lexington, kentucky, usa",23.0,0
+311,62653,"ashburn, virginia, usa",,0
+312,62654,"houghton, new york, usa",35.0,0
+313,62710,"santa cruz, california, usa",22.0,0
+314,62767,"york, pennsylvania, usa",,2
+315,62786,"w cola, south carolina, usa",43.0,0
+316,62786,"w cola, south carolina, usa",43.0,0
+317,63142,"san diego, california, usa",,0
+318,63335,"round lake, illinois, usa",28.0,0
+319,63363,"toronto, ontario, canada",23.0,0
+320,63755,"somerville, massachusetts, usa",28.0,0
+321,63925,"montreal, quebec, canada",,0
+322,64007,"baltimore, maryland, usa",,0
+323,64199,"rvc, new york, usa",,0
+324,64392,"huntsville, alabama,",32.0,0
+325,64553,"new york, new york, usa",,0
+326,64610,"fowlerville, michigan, usa",,0
+327,64612,"chicago, illinois, usa",29.0,0
+328,64632,"danville, california, usa",19.0,0
+329,64722,"toronto, ontario, canada",22.0,0
+330,64820,"shawnigan lake, british columbia, canada",,0
+331,65027,"senecaville, ohio, usa",32.0,0
+332,65063,"hamilton, new zealand, new zealand",,0
+333,65161,"pfafftown, north carolina, usa",,0
+334,65362,"sandia park, new mexico, usa",52.0,0
+335,65390,"lethbridge, alberta, canada",,0
+336,65390,"lethbridge, alberta, canada",,0
+337,65486,"san diego, california, usa",,0
+338,65491,"greenville, south carolina, usa",,0
+339,65679,"yorkshire, ohio, usa",36.0,0
+340,65845,"macomb, illinois, usa",61.0,0
+341,65915,"woodbridge, virginia, usa",55.0,0
+342,65955,"manotick, ontario, canada",,0
+343,65989,"berlin, berlin, germany",35.0,0
+344,66341,"dayton, minnesota, usa",,0
+345,66755,"seattle, washington, usa",26.0,0
+346,66817,"atlanta, georgia, usa",,0
+347,66924,"bristol, rhode island, usa",,0
+348,67974,"santa rosa, california, usa",45.0,0
+349,67975,"milwaukie, oregon, usa",57.0,0
+350,68033,"granger, indiana, usa",63.0,0
+351,68070,"takoma park, maryland, usa",,0
+352,68120,"york, north yorkshire, united kingdom",28.0,0
+353,68373,"marquette, michigan, usa",20.0,0
+354,68835,"port washington, new york, usa",23.0,0
+355,69362,"manning, oregon, usa",,0
+356,69428,"nijmegen, nijmegen, netherlands",19.0,0
+357,69920,"marquette, michigan, usa",50.0,0
+358,70116,"dallas, texas, usa",48.0,0
+359,70175,"new york, new york, usa",51.0,0
+360,70316,"atlanta, georgia, usa",,1
+361,70369,"york, england, united kingdom",55.0,0
+362,70647,"kent, minnesota, usa",62.0,0
+363,70920,"suffern, new york, usa",43.0,0
+364,71150,"waterford, michigan, usa",29.0,0
+365,71169,"jacksonville, florida, usa",30.0,2
+366,71330,"burlingame, california, usa",27.0,0
+367,72095,"seattle, washington, usa",62.0,0
+368,72737,"denver, colorado, usa",47.0,0
+369,72883,"saratoga, california, usa",58.0,3
+370,72911,"portland, oregon, usa",,0
+371,72985,"everett, washington, usa",35.0,0
+372,73584,"richmond hill, ontario, canada",30.0,1
+373,73831,"chesterfield, missouri, usa",,0
+374,74076,"victoria, british columbia, canada",62.0,0
+375,74132,"edmonton, alberta, canada",44.0,0
+376,74216,"greer, south carolina, usa",41.0,0
+377,75277,"sherrills ford, north carolina, usa",29.0,0
+378,75328,"kitchener, ontario, canada",27.0,0
+379,75504,"bend, oregon, usa",34.0,0
+380,75572,"haifa, n/a, israel",29.0,0
+381,75815,"erie, pennsylvania, usa",,0
+382,75892,"san diego, california, usa",,0
+383,75896,"elkhart, indiana, usa",34.0,0
+384,75898,"gig harbor, washington, usa",38.0,0
+385,75924,"port hawkesbury, nova scotia, canada",,0
+386,76159,"aberdare, wales, united kingdom",,0
+387,76272,"oakland, california, usa",30.0,0
+388,76400,"channel islands, california, usa",72.0,0
+389,76427,"austin, texas, usa",29.0,0
+390,76455,"raleigh, north carolina, usa",,0
+391,76569,"oak park, illinois, usa",25.0,2
+392,76612,"tomball, texas, usa",40.0,0
+393,77468,"owhango, king country, new zealand",46.0,0
+394,77695,"san diego, california, usa",54.0,0
+395,78051,"waterloo, ontario, canada",18.0,0
+396,78074,"seattle, washington, usa",,0
+397,78335,"peterborough, england, united kingdom",24.0,0
+398,78620,"somerville, massachusetts, usa",,0
+399,78639,"majadahonda, madrid, spain",31.0,0
+400,78667,"los angeles, california, usa",19.0,3
+401,78796,"detmold, nordrhein-westfalen, germany",22.0,0
+402,79016,"london, england, united kingdom",,0
+403,79077,"lund, n/a, sweden",24.0,0
+404,79358,"vancouver, british columbia, canada",,0
+405,79461,"orange park, florida, usa",,0
+406,80072,"newton, south australia, australia",19.0,0
+407,80276,"yucaipa, california, usa",,0
+408,80311,"oceanside, california, usa",32.0,0
+409,80719,"baytown, texas, usa",27.0,0
+410,81158,"hinton, alberta, canada",36.0,0
+411,81371,"san antonio, texas, usa",,0
+412,81423,"columbus, ohio, usa",36.0,0
+413,81640,"london, england, united kingdom",50.0,0
+414,81749,"littleton, ,",32.0,0
+415,81959,"fort myers, florida, usa",,0
+416,81986,"lexington, kentucky, usa",,0
+417,82188,"danvers, massachusetts, usa",34.0,0
+418,82219,"toronto, ontario, canada",39.0,0
+419,82794,"greenwood, western australia, australia",48.0,0
+420,82861,"ventura, california, usa",,0
+421,83293,"swisshome, ,",,0
+422,83482,"edmonton, alberta, canada",,0
+423,83539,"vancouver, british columbia, canada",32.0,0
+424,83580,"cupertino, california, usa",,0
+425,84157,"london, england, united kingdom",,3
+426,84227,"ballymena, northern ireland, united kingdom",,0
+427,84742,"round rock, texas, usa",46.0,2
+428,85024,"fresno, california, usa",57.0,0
+429,85746,"london, england, united kingdom",34.0,0
+430,86300,"boston, massachusetts, usa",,0
+431,86383,"pearland, texas, usa",19.0,0
+432,86444,"san jose, california, usa",28.0,0
+433,86692,"new york, new york, usa",22.0,0
+434,86709,"zwickau, sachsen, germany",,0
+435,86891,"san francisco, california, usa",33.0,0
+436,86986,"urbana, illinois, usa",,0
+437,87758,"st. louis, missouri, usa",,0
+438,87758,"st. louis, missouri, usa",,0
+439,87980,"toronto, ontario, canada",,0
+440,88135,"green bay, wisconsin, usa",,0
+441,88222,"san francisco, california, usa",,0
+442,88645,"nepean, ontario, canada",,0
+443,88866,"mount airy, maryland, usa",40.0,0
+444,89243,"bournemouth, england, united kingdom",28.0,0
+445,89423,"texarkana, texas, usa",,0
+446,89489,"n/a, n/a, united kingdom",,0
+447,90114,"columbus, nebraska, usa",,0
+448,90249,"highland village, texas, usa",54.0,0
+449,90342,"amherst, new york, usa",60.0,0
+450,90834,"copenhagen, n/a, denmark",46.0,0
+451,90949,"edinburgh, scotland, united kingdom",36.0,0
+452,91231,"austin, texas, usa",23.0,0
+453,91231,"austin, texas, usa",23.0,0
+454,91311,"jerseyville, ,",,0
+455,91646,"charlottesville, virginia, usa",,0
+456,91649,"bryan, texas, usa",,0
+457,91712,"tarpum bay, eleuthera, bahamas",40.0,0
+458,91723,"maumelle, arkansas, usa",,0
+459,92045,"new york, new york, usa",47.0,0
+460,92220,"brandon, manitoba, canada",35.0,0
+461,92231,"corpus christi, texas, usa",49.0,0
+462,92539,"chicagoland, illinois, usa",,0
+463,93094,"huntington beach, california, usa",37.0,0
+464,93291,"ottawa, ontario, canada",,0
+465,93416,"glasgow, scotland, united kingdom",52.0,0
+466,93543,"seattle, washington, usa",30.0,0
+467,93635,"sparta, new jersey, usa",,0
+468,93708,"glendora, california, usa",,0
+469,93737,"ottawa, ontario, canada",,0
+470,93739,"grimsby, england, united kingdom",45.0,0
+471,94133,"spokane, washington, usa",,0
+472,94473,"opelika, alabama, usa",34.0,0
+473,94551,"rosemont, illinois, usa",48.0,0
+474,94660,"fostoria, ohio, usa",31.0,0
+475,94984,"glen ridge, new jersey, usa",,0
+476,95209,"thetford, vermont, usa",,0
+477,95303,"somerville, massachusetts, usa",27.0,3
+478,95667,"porto, porto, portugal",24.0,0
+479,95865,"mount prospect, illinois, usa",,0
+480,96575,"zagreb, n/a, croatia",34.0,0
+481,96663,"elliott, iowa, usa",39.0,0
+482,96711,"reston, virginia, usa",,0
+483,96729,"san francisco, california, usa",,0
+484,97003,"espoo, uusimaa, finland",11.0,0
+485,97019,"rochester, new york, usa",38.0,0
+486,97338,"el cerrito, california, usa",,0
+487,97430,"naperville, illinois, usa",41.0,0
+488,97619,"toronto, ontario, canada",32.0,0
+489,97772,"corinth, texas, usa",37.0,0
+490,97849,"highland village, texas, usa",,0
+491,98076,"middletown, new york, usa",34.0,0
+492,98158,"adelaide, south australia, australia",27.0,0
+493,98190,"toronto, ontario, canada",,0
+494,98727,"south bend, indiana, usa",35.0,0
+495,98829,"sherman oaks, california, usa",39.0,0
+496,98829,"sherman oaks, california, usa",39.0,0
+497,98882,"wylie, texas,",,0
+498,98990,"berkeley, california, usa",,0
+499,99105,"air ronge, saskatchewan, canada",34.0,0
+500,99167,"hampton, virginia, usa",36.0,0
+501,99571,"edmonton, alberta, canada",,0
+502,100566,"arvada, colorado, usa",,3
+503,101178,"montclair, new jersey, usa",,0
+504,101403,"shailer park, queensland, australia",48.0,0
+505,101428,"stockholm, stockholm,",,0
+506,101601,"bg, ohio, usa",31.0,0
+507,101801,"brae, scotland, united kingdom",56.0,0
+508,102685,"edinburgh, scotland, united kingdom",,0
+509,102977,"san diego, california, usa",,0
+510,103013,"harlem, new york, usa",,0
+511,103013,"harlem, new york, usa",,0
+512,103159,"tulsa, oklahoma, usa",,0
+513,103174,"st. catharines, ontario, canada",24.0,0
+514,103591,"seattle, washington, usa",,0
+515,103946,"caloundra, queensland, australia",19.0,0
+516,104502,"groton, connecticut, usa",,0
+517,104549,"hamburg, hamburg, germany",24.0,2
+518,104587,"shoreview, minnesota, usa",14.0,0
+519,104941,"moorhead, minnesota, usa",76.0,0
+520,105113,"selfoss, n/a, iceland",36.0,0
+521,105198,"chertsey, england, united kingdom",26.0,0
+522,105277,"bath, england, united kingdom",,0
+523,105767,"portland, oregon, usa",,0
+524,105837,"tucson, arizona, usa",,0
+525,105845,"st. louis, missouri, usa",,0
+526,106550,"eugene, oregon, usa",,0
+527,106598,"billings, montana, usa",,0
+528,106760,"flagstaff, arizona, usa",,0
+529,106808,"newburgh, indiana, usa",,0
+530,106808,"newburgh, indiana, usa",,0
+531,106919,"fayetteville, north carolina, usa",,0
+532,107216,"seattle, washington, usa",,3
+533,107580,"college station, texas, usa",22.0,0
+534,108115,"chicago, illinois, usa",25.0,0
+535,109035,"missoula, montana, usa",,0
+536,109099,"brooklyn, new york, usa",,0
+537,109157,"vantaa, n/a, finland",,0
+538,109340,"melbourne, victoria, australia",28.0,0
+539,109486,"wellington, n/a, new zealand",,2
+540,109493,"vienna, n/a, austria",,0
+541,109719,"philadelphia, pennsylvania, usa",26.0,0
+542,109823,"melbourne, victoria, australia",17.0,0
+543,109826,"laurel, maryland, usa",,0
+544,110137,"boxtel, n/a, netherlands",24.0,0
+545,110562,"cincinnati, ohio, usa",27.0,0
+546,110676,"sinagpore, singapore, singapore",,0
+547,111617,"middleburg, florida, usa",,0
+548,111617,"middleburg, florida, usa",,0
+549,112704,"borås, n/a,",,0
+550,112769,"milford, new hampshire, usa",,3
+551,112858,"piscataway, new jersey, usa",,0
+552,113726,"east islip, new york, usa",,0
+553,114558,"la grande, oregon, usa",34.0,2
+554,114568,"medford, massachusetts, usa",22.0,0
+555,114805,"san francisco, california, san franicsco",,0
+556,114824,"redmond, washington, usa",33.0,0
+557,115013,"holly springs, north carolina, usa",,0
+558,115406,"kittery, maine, usa",31.0,0
+559,115590,"thorndike, maine, usa",,0
+560,115689,"plant city, florida, usa",17.0,0
+561,116109,"seattle, washington, usa",,0
+562,116299,"union city, california, usa",36.0,0
+563,116542,"london, england, united kingdom",,0
+564,116716,"clearwater, florida, usa",,0
+565,116801,"torquay, england, united kingdom",21.0,0
+566,117136,"fernandina beach, florida, usa",42.0,0
+567,117345,"ft. collins, colorado, usa",31.0,0
+568,117502,"dallas, texas, usa",32.0,0
+569,117918,"portland, oregon, usa",53.0,0
+570,117933,"mt. airy, north carolina, usa",,0
+571,118102,"patchogue, new york, usa",40.0,0
+572,118178,"gaithersburg, maryland, usa",47.0,0
+573,118182,"austin, texas, usa",26.0,0
+574,118585,"sherman oaks, california, usa",,0
+575,118605,"lake oswego, oregon, usa",56.0,0
+576,118887,"ann arbor, michigan, usa",,0
+577,118978,"london, england, united kingdom",35.0,0
+578,119114,"raymond, nebraska, usa",41.0,0
+579,119219,"marlton, new jersey, usa",27.0,0
+580,119222,"san jose, california, usa",,0
+581,119684,"valrico, florida, usa",27.0,0
+582,120416,"cut off, louisiana, usa",20.0,0
+583,120476,"victoria, british columbia, canada",,0
+584,120615,"albuquerque, new mexico, usa",53.0,0
+585,120657,"san diego, california, usa",17.0,0
+586,120781,"wantirna south, victoria, australia",42.0,0
+587,121064,"la porte, indiana, usa",,0
+588,121480,"slh, new jersey, usa",,0
+589,121768,"berkeley, california, usa",,0
+590,121792,"jacksonville, florida, usa",35.0,0
+591,121938,"houston, texas, usa",,0
+592,121989,"dyer brook, maine, usa",,0
+593,122085,"elsternwick, victoria, australia",,0
+594,122256,"miller place, new york, usa",,0
+595,122512,"minneapolis, minnesota, usa",32.0,0
+596,122861,"hamilton, ontario, canada",,0
+597,123191,"london, england, united kingdom",34.0,0
+598,123275,"forest grove, oregon, usa",,0
+599,123727,"el dorado, california, canada",50.0,0
+600,124320,"st. louis, missouri, usa",,0
+601,124320,"st. louis, missouri, usa",,0
+602,124516,"wisconsin rapids, wisconsin, usa",54.0,0
+603,124561,"seattle, washington, usa",,0
+604,124765,"pune, arizona, india",22.0,0
+605,125323,"missoula, montana, usa",38.0,0
+606,125327,"crystal river, florida, usa",61.0,0
+607,125398,"apple valley, minnesota, usa",,0
+608,125711,"red hook, new york, usa",57.0,0
+609,125962,"muncie, indiana, usa",21.0,0
+610,126440,"louisville, kentucky, usa",,2
+611,126519,"helsinki, n/a, finland",,0
+612,126608,"london, lazio, united kingdom",,2
+613,126753,"cartersville, georgia, usa",51.0,0
+614,126904,"moorhead, minnesota, usa",,0
+615,127094,"dunfermline, n/a, united kingdom",36.0,3
+616,127619,"mosheim, tennessee, usa",42.0,0
+617,127787,"auckland, north island, new zealand",54.0,0
+618,128228,"seattle, ,",,0
+619,128484,"hayward, california, usa",,0
+620,128633,"mount prospect, illinois, usa",27.0,0
+621,128753,"griffin, georgia, usa",,0
+622,128972,"torquay, england, united kingdom",25.0,0
+623,129697,"delta, british columbia, canada",45.0,0
+624,129953,"kennewick, washington, usa",20.0,0
+625,130112,"rocklin, california, usa",36.0,0
+626,130112,"rocklin, california, usa",36.0,3
+627,130190,"camden, north carolina, usa",,0
+628,130236,"cary, north carolina, usa",,0
+629,130480,"boston, massachusetts, usa",,0
+630,130672,"northcote, victoria, australia",30.0,0
+631,130872,"kitchener, ontario, canada",,0
+632,131379,"fairview, north carolina, usa",28.0,0
+633,131474,"kamloops, british columbia, canada",34.0,0
+634,131648,"bothell, washington, usa",,0
+635,131767,"atlanta, georgia, usa",40.0,0
+636,131788,"new westminster, british columbia, canada",,0
+637,131838,"orono, maine, usa",48.0,0
+638,131944,"bakersfield, california, usa",,0
+639,131945,"coventry, connecticut, usa",41.0,0
+640,132157,"larkspur, california, usa",34.0,0
+641,132174,"largo, florida, usa",18.0,0
+642,132314,"bakersfield, california, usa",,0
+643,132471,"lanham, maryland, usa",48.0,0
+644,132795,"havertown, pennsylvania, usa",,0
+645,133199,"henderson, nevada, usa",,2
+646,133573,"fayetteville, georgia, usa",22.0,0
+647,133779,"brooklyn, new york, usa",28.0,3
+648,134367,"speers point, new south wales, australia",,0
+649,134653,"star prairie, wisconsin, usa",15.0,0
+650,135908,"palo alto, california, usa",25.0,0
+651,136275,"winston salem, north carolina, usa",30.0,0
+652,136417,"west bend, wisconsin, usa",34.0,0
+653,137037,"lafayette, california, usa",,0
+654,137441,"houston, ,",,0
+655,137555,"denver, new york, usa",,0
+656,137591,"hendersonville, north carolina, usa",,0
+657,137621,"pender harbour, british columbia, canada",,0
+658,137682,"killeen, texas, usa",30.0,0
+659,137687,"ann arbor, michigan, usa",,0
+660,137750,"clarks summit, pennsylvania, usa",18.0,0
+661,138015,"minneapolis, minnesota, usa",60.0,0
+662,138223,"victoria, british columbia, canada",,0
+663,138838,"durand, michigan, usa",26.0,0
+664,138943,"twinsburg, ohio, usa",,0
+665,139525,"waterloo, ontario, canada",41.0,0
+666,139542,"vancouver, british columbia, canada",,0
+667,139596,"lexington, kentucky, usa",33.0,0
+668,139718,"santa monica, california, usa",,3
+669,139905,"knoxville, tennessee, usa",22.0,0
+670,139911,"lexington, kentucky, usa",,0
+671,139935,"nonya, new york, usa",,0
+672,141474,"midlothian, texas, usa",40.0,0
+673,141552,"lake charles, louisiana, usa",28.0,0
+674,142054,"chicago, illinois, usa",,0
+675,142422,"austin, texas, usa",42.0,0
+676,142502,"montclair, new jersey, usa",,0
+677,142545,"kekaha, hawaii, usa",50.0,0
+678,142551,"muskegon, michigan, usa",37.0,0
+679,142604,"lodi, new jersey, usa",,0
+680,142669,"windham, maine, usa",,0
+681,142669,"windham, maine, usa",,0
+682,143078,"mansfield, pennsylvania, usa",,0
+683,143292,"ny, new york, usa",,0
+684,143349,"new orleans, louisiana, usa",27.0,0
+685,143422,"york, england, united kingdom",,0
+686,143545,"yarra junction, victoria, australia",,0
+687,144031,"philadelphia, pennsylvania, usa",,0
+688,144083,"stevensville, michigan, usa",,2
+689,144098,"kamloops, british columbia, canada",,0
+690,144200,"merrimack, new hampshire, usa",21.0,0
+691,144262,"jacksonville, florida, usa",,0
+692,144262,"jacksonville, florida, usa",,0
+693,144458,"cary, north carolina, usa",,0
+694,144590,"minnetonka, minnesota, usa",,0
+695,144605,"bow, new hampshire, usa",,0
+696,144722,"jackson, michigan, usa",,0
+697,144840,"calgary, alberta, canada",26.0,0
+698,145055,"richmond, british columbia, canada",,0
+699,145284,"belton, missouri, usa",34.0,0
+700,145286,"saint paul, minnesota, usa",,0
+701,145332,"calgary, alberta, canada",,0
+702,145377,"reynoldsburg, ohio, usa",34.0,0
+703,145643,"hobe sound, florida, usa",59.0,0
+704,145650,"suffolk county - south shore, new york, usa",,0
+705,146578,"london, middlesex, united kingdom",,0
+706,146757,"fort wayne, indiana, usa",,0
+707,146869,"st. louis, missouri, usa",,0
+708,147159,"london, england, united kingdom",34.0,0
+709,147383,"hazelwood, missouri, usa",,0
+710,147877,"bothell, washington, usa",31.0,0
+711,148294,"kirkwood, missouri, usa",,0
+712,148333,"new york, new york, usa",,0
+713,148520,"tulsa, oklahoma, usa",26.0,0
+714,148520,"tulsa, oklahoma, usa",26.0,0
+715,148994,"johannesburg, n/a, south africa",,0
+716,149011,"san antonio, ,",,0
+717,149291,"apex, north carolina, usa",27.0,0
+718,149650,"denver, colorado, usa",36.0,0
+719,149713,"hoffman estates, illinois, usa",39.0,0
+720,149750,"new haven, connecticut, usa",,3
+721,150674,"seattle, washington, usa",2.0,0
+722,150677,"sudsbury, vermont, usa",54.0,0
+723,151051,"mill valley, california, usa",,0
+724,151213,"midlothian, virginia, usa",51.0,0
+725,151771,"montreal, quebec, canada",38.0,0
+726,151840,"springboro, ohio, usa",62.0,0
+727,151895,"zug, zug, switzerland",34.0,0
+728,152157,"macclesfield, england, united kingdom",,0
+729,152244,"toronto, ontario, canada",,0
+730,152455,"st. louis, missouri, usa",39.0,0
+731,152455,"st. louis, missouri, usa",39.0,0
+732,152455,"st. louis, missouri, usa",39.0,0
+733,152621,"new orleans, louisiana, usa",32.0,0
+734,152757,"miami, florida, usa",53.0,0
+735,153190,"rome, lazio, italy",34.0,0
+736,153296,"edmond, oklahoma, usa",54.0,0
+737,153457,"seattle, washington, usa",44.0,0
+738,153527,"houston, texas, usa",57.0,0
+739,153566,"new york, new york, usa",24.0,0
+740,153908,"springfield, missouri, usa",29.0,0
+741,154005,"insch, scotland, united kingdom",,0
+742,154130,"acworth, ,",30.0,0
+743,154546,"fair lawn, new jersey, usa",,0
+744,155004,"richmond, virginia, usa",46.0,0
+745,155019,"west chester, pennsylvania, usa",31.0,0
+746,155251,"bristol, england, united kingdom",,0
+747,155524,"melbourne, victoria, australia",31.0,0
+748,155742,"lisboa, lisboa, portugal",60.0,0
+749,156039,"las vegas, nevada, usa",33.0,0
+750,156644,"fountain valley, california, usa",,0
+751,156644,"fountain valley, california, usa",,0
+752,156644,"fountain valley, california, usa",,0
+753,156848,"boyne city, michigan, usa",,0
+754,157417,"milsons point, new south wales, australia",50.0,0
+755,157732,"phoenix, arizona, usa",22.0,0
+756,158050,"ottawa, ontario, canada",,0
+757,158400,"manchester, england, united kingdom",45.0,0
+758,158412,"miami beach, florida, usa",52.0,0
+759,158591,"christchurch, canterbury, new zealand",50.0,0
+760,158596,"gothenburg, vastra frolunda, sweden",19.0,0
+761,158720,"copenhagen, n/a, denmark",55.0,0
+762,158939,"crofton, maryland, usa",21.0,0
+763,159461,"brighton, england, united kingdom",28.0,0
+764,159543,"gardiner, maine, usa",,0
+765,159567,"moncalieri, torino, italy",,0
+766,159613,"north little rock, arkansas, usa",32.0,0
+767,159993,"atlanta, georgia, usa",27.0,0
+768,160208,"ft. lauderdale, florida, usa",,0
+769,160886,"purcellville, virginia, usa",,0
+770,161141,"san jose, california, usa",34.0,0
+771,161316,"kanata, ontario, canada",,0
+772,161540,"secret, hessen, germany",,0
+773,161594,"medford, oregon, usa",,0
+774,161635,"haverhill, massachusetts, usa",,0
+775,161661,"adelaide, south australia, australia",46.0,0
+776,161686,"louisville, kentucky, usa",,0
+777,161686,"louisville, kentucky, usa",,0
+778,161916,"ofallon, missouri, usa",10.0,0
+779,161951,"antioch, california, usa",25.0,0
+780,162152,"forestville, california, usa",,0
+781,162464,"oslo, n/a, norway",24.0,0
+782,162894,"weston, florida, usa",35.0,0
+783,162903,"coldwater, mississippi, usa",,0
+784,163399,"austin, texas, usa",29.0,0
+785,163679,"jacksonville, florida, usa",,0
+786,163679,"jacksonville, florida, usa",,0
+787,163731,"jersey city, new jersey, usa",29.0,0
+788,163814,"bingelrade, limburg, netherlands",41.0,0
+789,164021,"brooklyn, new york, usa",,0
+790,164338,"london, london, united kingdom",36.0,0
+791,164377,"lake oswego, oregon, usa",42.0,0
+792,164388,"medicine hat, alberta, canada",55.0,0
+793,164695,"boulder, colorado, usa",28.0,0
+794,164741,"santa fe, new mexico, usa",,0
+795,164940,"west olive, michigan, usa",44.0,0
+796,165182,"buffalo grove, illinois, usa",31.0,0
+797,165811,"east windsor, new jersey, usa",50.0,0
+798,165938,"tualaint, oregon, usa",,0
+799,166116,"vancouver, british columbia, canada",,0
+800,166139,"vancouver, british columbia, canada",,0
+801,166373,"coos bay, oregon, usa",,0
+802,166690,"niagara, wisconsin, usa",,0
+803,166723,"atlanta, georgia, usa",,0
+804,167256,"santa cruz, california, usa",41.0,0
+805,167371,"santa rosa, california, usa",,0
+806,167627,"manchester, england, united kingdom",19.0,0
+807,167673,"ermelo, gelderland, netherlands",18.0,0
+808,167969,"alameda, california, usa",,0
+809,168143,"portland, oregon, usa",23.0,0
+810,168176,"frederick, maryland, usa",,0
+811,168924,"freeland, michigan, usa",20.0,3
+812,169072,"hong kong, s.a.r., n/a, china",63.0,0
+813,169108,"bellevue, washington, usa",,0
+814,169187,"edmonton, alberta, canada",,0
+815,169226,"orlando, florida, usa",,0
+816,169236,"essex fells, new jersey, usa",,0
+817,169503,"melbourne, victoria, australia",34.0,0
+818,169712,"groveport, ohio, usa",30.0,0
+819,169749,"wyoming, minnesota, usa",,0
+820,170025,"austin, minnesota, usa",41.0,0
+821,170460,"kansas city, missouri, usa",,0
+822,170529,"charlottesville, virginia, usa",,0
+823,170529,"charlottesville, virginia, usa",,0
+824,170571,"cincinnati, ohio, usa",29.0,0
+825,170655,"quincy, california,",,0
+826,171042,"orlando, florida, usa",,0
+827,171146,"denver, colorado, usa",,0
+828,171421,"brisbane, queensland, australia",,0
+829,171562,"northampton, massachusetts, usa",25.0,0
+830,171622,"austin, texas, usa",,0
+831,171669,"hot springs, south dakota, usa",49.0,0
+832,172054,"leicester, england, united kingdom",28.0,0
+833,172320,"anchorage, alaska, usa",,0
+834,172875,"ashland, oregon, usa",,0
+835,172998,"manchester, england, united kingdom",21.0,0
+836,173193,"morgantown, west virginia, usa",60.0,0
+837,173272,"golden valley, minnesota, usa",,0
+838,173738,"melbourne, victoria, australia",,0
+839,173888,"decatur, alabama, usa",13.0,0
+840,174293,"bellflower, california, usa",,0
+841,174494,"woodland hills, california, usa",,0
+842,174644,"dewitt, iowa, usa",,0
+843,174960,"hamilton, ontario, canada",31.0,0
+844,175014,"cartersville, georgia, usa",58.0,0
+845,175089,"sallisaw, oklahoma, usa",,0
+846,175199,"ottawa, ontario, canada",,0
+847,175443,"houston, texas, usa",,0
+848,175495,"elizabethtown, pennsylvania, usa",,0
+849,175501,"sydney, new south wales, australia",,0
+850,175748,"los angeles, california, usa",,0
+851,175814,"spokane, washington, usa",41.0,0
+852,176089,"la jolla, california, usa",33.0,0
+853,176232,"lombard, illinois, usa",19.0,0
+854,176233,"gorham, maine, usa",21.0,0
+855,176388,"valley village, california, usa",30.0,0
+856,176388,"valley village, california, usa",30.0,0
+857,176388,"valley village, california, usa",30.0,0
+858,176388,"valley village, california, usa",30.0,0
+859,176418,"phoenixville, pennsylvania, usa",46.0,0
+860,176637,"gloucester, massachusetts, usa",9.0,0
+861,177316,"pawleys island, south carolina, usa",,0
+862,177553,"new westminster, british columbia, canada",64.0,0
+863,178542,"st. louis, missouri, usa",38.0,0
+864,178542,"st. louis, missouri, usa",38.0,0
+865,178553,"arlington, virginia, usa",24.0,0
+866,178856,"barrie, ontario, canada",,0
+867,179048,"charleston, west virginia, usa",30.0,3
+868,179171,"acworth, georgia, usa",39.0,0
+869,179171,"acworth, georgia, usa",39.0,0
+870,179208,"n. eastham, massachusetts, usa",57.0,0
+871,179260,"santa barbara, california, usa",51.0,0
+872,179496,"london, england, united kingdom",37.0,0
+873,179497,"cambridge, england, united kingdom",63.0,0
+874,179858,"melbourne, victoria, australia",25.0,0
+875,179932,"lawrence, kansas, usa",,0
+876,180443,"london, england, united kingdom",32.0,3
+877,180564,"doylestown, pennsylvania, usa",29.0,0
+878,181124,"oakland, california, usa",,0
+879,181438,"terrell, texas, usa",,0
+880,181938,"mandeville, louisiana, usa",,0
+881,181952,"kalamazoo, michigan, usa",24.0,0
+882,181952,"kalamazoo, michigan, usa",24.0,0
+883,182431,"chisholm, minnesota, usa",,0
+884,182494,"frederick, maryland, usa",,1
+885,182733,"ottawa, ontario, canada",24.0,0
+886,182843,"ghaziabad, uttar pradesh, india",31.0,0
+887,182922,"lexington park, maryland, usa",,0
+888,182995,"brentwood, missouri, usa",18.0,0
+889,183106,"rogers, arkansas, usa",38.0,0
+890,183394,"riverside, california, usa",19.0,0
+891,183403,"sydney, new south wales, australia",28.0,0
+892,183518,"malden, massachusetts, usa",,0
+893,183664,"st. louis, missouri, usa",,0
+894,183689,"stockholm, n/a, sweden",,0
+895,183769,"gatineau, quebec, canada",50.0,0
+896,183806,"prince george, british columbia, canada",47.0,0
+897,183964,"eliot, maine, usa",,0
+898,183980,"pender island, british columbia, canada",56.0,0
+899,184119,"north gower, ontario, canada",57.0,0
+900,184329,"saint albans, west virginia, usa",39.0,0
+901,184493,"seattle, washington, usa",,0
+902,184669,"los alamitos, california, usa",51.0,0
+903,185127,"chelsea, victoria, australia",50.0,0
+904,185227,"okmulgee, oklahoma, usa",58.0,0
+905,186440,"warren, arkansas, usa",19.0,2
+906,186543,"victoria, british columbia, canada",22.0,0
+907,186761,"kingswells aberdeen, uk, aberdeenshire, united kingdom",50.0,0
+908,186858,"bridge city, texas, usa",44.0,0
+909,187057,"montreal, quebec, canada",27.0,0
+910,187203,"chicago, illinois, usa",28.0,0
+911,187248,"calgary, alberta, canada",41.0,0
+912,187248,"calgary, alberta, canada",41.0,2
+913,187468,"harrodsburg, kentucky, usa",16.0,0
+914,187778,"san francisco, california, usa",,0
+915,187949,"bellingham, washington, usa",30.0,0
+916,187949,"bellingham, washington, usa",30.0,0
+917,188686,"vienna, virginia, usa",49.0,0
+918,188832,"charleston, south carolina, usa",35.0,0
+919,188849,"ottawa, ontario, canada",,0
+920,188889,"arcadia, california, usa",18.0,0
+921,189129,"oakland, california, usa",39.0,0
+922,189322,"mildmay, ontario, canada",49.0,0
+923,189332,"ottawa, ontario, canada",,0
+924,189358,"san francisco, california, usa",57.0,0
+925,189361,"bloomington, indiana, usa",25.0,0
+926,189502,"yellow springs, ohio, usa",47.0,0
+927,189951,"hartford, connecticut, usa",,0
+928,190137,"winter springs, florida, usa",63.0,0
+929,190424,"edmonton, alberta, canada",29.0,0
+930,190756,"twentynine palms, california, usa",,0
+931,190772,"fremont, nebraska, usa",,0
+932,190982,"fairbanks, alaska, usa",,0
+933,190983,"zuerich, zuerich, switzerland",49.0,1
+934,191538,"rochester, minnesota, usa",17.0,0
+935,191538,"rochester, minnesota, usa",17.0,0
+936,191994,"enschede, n/a, netherlands",42.0,0
+937,192338,"louisville, kentucky, usa",30.0,0
+938,192381,"noxapater, mississippi, usa",,0
+939,192481,"recess, connemara, county galway, ireland",,0
+940,192606,"columbia, missouri, usa",62.0,0
+941,192967,"terrace, british columbia, canada",,0
+942,193025,"wellington, north island, new zealand",,0
+943,193065,"la crosse, wisconsin, usa",,0
+944,193093,"thornton, colorado, usa",,0
+945,193220,"denver, colorado, usa",39.0,0
+946,193385,"mortdale, new south wales, australia",26.0,0
+947,193463,"sacramento, california, usa",44.0,0
+948,193621,"portland, oregon, usa",,0
+949,193858,"chardon, ohio, usa",60.0,0
+950,193882,"amherst, ,",,0
+951,193947,"manchester, new hampshire, usa",35.0,0
+952,194161,"vancouver, british columbia, canada",,0
+953,194281,"concord, new hampshire, usa",,0
+954,194356,"victoria, british columbia, canada",,0
+955,194531,"chicago, illinois, usa",39.0,0
+956,194777,"westfield, new jersey, usa",,0
+957,195878,"fredericton, new brunswick, canada",,0
+958,196197,"north vancouver, british columbia, canada",,0
+959,196236,"worcester, massachusetts, usa",34.0,0
+960,196294,"chicago, illinois, usa",28.0,0
+961,196339,"birmingham, england, united kingdom",19.0,0
+962,196471,"philadelphia, pennsylvania, usa",,0
+963,196510,"oxford, england, united kingdom",,0
+964,196737,"jupiter, florida, usa",,0
+965,197084,"chiloquin, oregon, usa",36.0,0
+966,197098,"columbia, missouri, usa",27.0,0
+967,197203,"amsterdam, noord holland, netherlands",,0
+968,197354,"rock hill, mo, ,",,0
+969,197415,"costa teguise, las palmas, spain",42.0,0
+970,197653,"milwaukie, oregon, usa",,0
+971,198314,"albuquerque, new mexico, usa",,0
+972,198330,"schenectady, new york, usa",,0
+973,198481,"surrey, british columbia, canada",,0
+974,198482,"puchong, selangor, malaysia",26.0,0
+975,198633,"irving, ,",,0
+976,198746,"red deer, alberta, canada",,0
+977,198895,"plano, texas, usa",27.0,2
+978,199015,"toronto, ontario, canada",31.0,0
+979,199021,"memphis, tennessee, usa",49.0,0
+980,199131,"salisbury, england, united kingdom",,0
+981,199144,"woodbridge, virginia, usa",25.0,0
+982,199144,"woodbridge, virginia, usa",25.0,0
+983,199144,"woodbridge, virginia, usa",25.0,0
+984,199283,"gloucester, massachusetts, usa",,0
+985,199375,"portland, oregon, usa",30.0,0
+986,199442,"seattle, washington, usa",39.0,0
+987,199504,"wilson, north carolina, usa",,0
+988,199548,"lubbock, texas, usa",45.0,0
+989,200123,"stockholm, n/a, sweden",,0
+990,200341,"ronceverte, west virginia, usa",33.0,0
+991,200391,"saskatoon, saskatchewan, canada",50.0,0
+992,200437,"new york, new york,",23.0,0
+993,200642,"kingston, ontario, canada",,0
+994,200812,"nashville, tennessee, usa",,0
+995,201043,"oslo, oslo, norway",,0
+996,201100,"san mateo, california, usa",39.0,0
+997,201183,"ausin, texas, usa",30.0,0
+998,201266,"kirksville, missouri, usa",26.0,0
+999,201393,"fredericton, new brunswick, canada",24.0,0
+1000,201613,"mesa, arizona, usa",22.0,0
+1001,201670,"highlands, texas, usa",,0
+1002,202189,"san antonio, texas, usa",26.0,0
+1003,202850,"rollingstone, minnesota, usa",17.0,0
+1004,203160,"long beach, california, usa",27.0,0
+1005,203442,"ottawa, ontario, canada",,3
+1006,203683,"edmonton, alberta, canada",38.0,0
+1007,203722,"azusa, california, usa",,0
+1008,204458,"lakeside, arizona, usa",,0
+1009,204721,"ann arbor, michigan, usa",,0
+1010,204832,"portland, oregon, usa",33.0,0
+1011,205053,"minneapolis, minnesota, usa",,0
+1012,205400,"drexel hill, pennsylvania, usa",,0
+1013,205601,"sydney, new south wales, australia",30.0,0
+1014,205794,"stockholm, stockholm, sweden",27.0,0
+1015,206067,"austin, texas, usa",,0
+1016,206381,"dillsburg, pennsylvania, usa",,0
+1017,206536,"calgary, alberta, canada",48.0,0
+1018,206541,"comox, british columbia, canada",,0
+1019,206819,"bronx, new york, usa",25.0,0
+1020,206900,"st. louis, missouri, usa",,0
+1021,206993,"san diego, california, usa",,0
+1022,206993,"san diego, california, usa",,0
+1023,207115,"joplin, missouri, usa",27.0,0
+1024,207115,"joplin, missouri, usa",27.0,0
+1025,207310,"winston-salem, north carolina, usa",36.0,0
+1026,207794,"carrying place, ontario, canada",61.0,0
+1027,208047,"round rock, texas, usa",38.0,0
+1028,208050,"fennville, michigan, usa",,0
+1029,208379,"san diego, california, usa",,0
+1030,208390,"campbell river, british columbia, canada",32.0,0
+1031,208632,"moreno valley, california, usa",37.0,0
+1032,208663,"jenks, oklahoma, usa",39.0,3
+1033,208675,"prince george, british columbia, canada",,0
+1034,208726,"seattle, washington, usa",52.0,0
+1035,208844,"newton, alabama, usa",48.0,0
+1036,209062,"san jose, california, usa",45.0,0
+1037,209478,"wentzville, missouri, usa",40.0,0
+1038,209503,"columbia, missouri, usa",29.0,0
+1039,209662,"mississauga, ontario, canada",24.0,0
+1040,209803,"chicago, illinois, usa",18.0,0
+1041,209864,"raleigh, north carolina, usa",51.0,0
+1042,209914,"sydney, new south wales, australia",,0
+1043,209981,"manchester, england, united kingdom",21.0,0
+1044,210020,"houston, texas, usa",25.0,0
+1045,210196,"orlando, florida, usa",34.0,0
+1046,210422,"apex, north carolina, usa",,0
+1047,210472,"rio de janeiro, rio de janeiro, brazil",37.0,0
+1048,210810,"san marcos, texas, usa",,0
+1049,211072,"whitehall, ohio, usa",29.0,0
+1050,211433,"cambridge, massachusetts, usa",,0
+1051,211464,"hartford, connecticut, usa",,0
+1052,211841,"laguna niguel, california, usa",27.0,0
+1053,212012,"thame, england, united kingdom",36.0,0
+1054,212012,"thame, england, united kingdom",36.0,0
+1055,212075,"hartford, connecticut, usa",34.0,0
+1056,212189,"shirley, new york, usa",18.0,3
+1057,212402,"london, england, united kingdom",25.0,0
+1058,212471,"baton rouge, louisiana, usa",27.0,0
+1059,212471,"baton rouge, louisiana, usa",27.0,0
+1060,212588,"washington, dc, usa",,0
+1061,212608,"seattle, washington, usa",34.0,0
+1062,212648,"torrance, california, usa",50.0,0
+1063,212739,"winnfield, louisiana, usa",44.0,0
+1064,212945,"victoria, british columbia, canada",,0
+1065,212954,"tigard, oregon, usa",0.0,0
+1066,213102,"gaithersburg, maryland, usa",57.0,0
+1067,213102,"gaithersburg, maryland, usa",57.0,0
+1068,213181,"davie, florida, usa",38.0,0
+1069,213181,"davie, florida, usa",38.0,0
+1070,213291,"little italy, ontario, canada",31.0,0
+1071,213330,"philadelphia, pennsylvania, usa",42.0,0
+1072,213846,"campbell, california, usa",27.0,0
+1073,213921,"edinburgh, scotland, united kingdom",,0
+1074,213921,"edinburgh, scotland, united kingdom",,0
+1075,214023,"hemel hempstead, england, united kingdom",33.0,0
+1076,214063,"coupeville, washington, usa",39.0,0
+1077,214250,"st. augustine, florida, usa",31.0,0
+1078,214250,"st. augustine, florida, usa",31.0,0
+1079,214565,"tucson, arizona, usa",,0
+1080,214650,"miami, florida, usa",34.0,0
+1081,215117,"charlottetown, prince edward island, canada",60.0,0
+1082,215213,"london, england, united kingdom",,0
+1083,215398,"belfast, ,",,0
+1084,215520,"topeka, kansas, usa",,0
+1085,215555,"sacramento, california, usa",,0
+1086,215702,"stow, ohio, usa",35.0,0
+1087,215776,"appleton, wisconsin, usa",29.0,0
+1088,216021,"cincinnati, ohio, usa",48.0,0
+1089,216262,"sharon, massachusetts, usa",60.0,0
+1090,216275,"capital federal, buenos aires, argentina",,0
+1091,216346,"ann arbor, michigan, usa",,0
+1092,216941,"orlando, florida, usa",40.0,0
+1093,216941,"orlando, florida, usa",40.0,0
+1094,217001,"fort worth, texas, usa",,0
+1095,217235,"pori, n/a,",25.0,0
+1096,217272,"livingston, texas, usa",62.0,0
+1097,217448,"newport news, virginia, usa",,0
+1098,217475,"kraków, ma³opolskie,",,0
+1099,217572,"prince george, british columbia, canada",,0
+1100,217720,"sydney, new south wales, australia",32.0,0
+1101,217762,"ogden, utah, usa",48.0,0
+1102,217868,"anacortes, washington, usa",,0
+1103,217902,"oakland, new jersey, usa",20.0,0
+1104,218161,"colwyn bay, wales, united kingdom",48.0,0
+1105,218234,"redwood city, california, usa",,3
+1106,218502,"manchester, hulme, united kingdom",27.0,0
+1107,218729,"orlando, florida, usa",19.0,0
+1108,218941,"london, england, united kingdom",,0
+1109,218985,"cuyahoga falls, ohio, usa",,0
+1110,219240,"gordon, alabama, usa",24.0,0
+1111,219692,"minnetonka, minnesota, usa",68.0,0
+1112,219715,"wausau, wisconsin, usa",,0
+1113,220325,"westbury, england, united kingdom",17.0,0
+1114,220396,"cazenovia, new york, usa",23.0,0
+1115,220413,"chandler, arizona, usa",,0
+1116,220648,"halifax, nova scotia, canada",27.0,0
+1117,220706,"southern, new mexico, usa",,0
+1118,220847,"yuma, arizona, usa",35.0,0
+1119,221694,"buffalo, new york, usa",18.0,0
+1120,221790,"adelaide, south australia, australia",,0
+1121,221896,"satellite beach, florida, usa",23.0,0
+1122,221911,"benicia, california, usa",43.0,0
+1123,221939,"london, england, united kingdom",18.0,0
+1124,222767,"knoxville, tennessee, usa",,0
+1125,222811,"washington, dc, usa",,0
+1126,223134,"mt. carroll, illinois, usa",,0
+1127,224029,"leiden, zuid holland, netherlands",,0
+1128,224333,"redmond, oregon, usa",62.0,0
+1129,224509,"grandview, missouri, usa",41.0,0
+1130,224591,"melbourne, victoria, australia",,0
+1131,224752,"paris, paris, france",,0
+1132,224873,"cheyenne, wyoming, usa",,0
+1133,225043,"san francisco, california, usa",43.0,2
+1134,225061,"san diego, california, usa",,0
+1135,225183,"valley glen, california, usa",49.0,0
+1136,225360,"delafield, wisconsin, usa",,0
+1137,225571,"theodore, ,",17.0,0
+1138,225909,"sao bernardo do campo, sao paulo, brazil",27.0,0
+1139,226202,"fort walton beach, florida, usa",40.0,3
+1140,226730,"montclair, new jersey, usa",46.0,0
+1141,227130,"leesburg, virginia, usa",17.0,0
+1142,227273,"new westminster, british columbia, canada",,0
+1143,227412,"council bluffs, iowa, usa",,0
+1144,227560,"dawson, minnesota, usa",,0
+1145,227955,"falls church, virginia, usa",37.0,0
+1146,228052,"silver spring, maryland, usa",12.0,0
+1147,228178,"sarnia, ontario, canada",69.0,0
+1148,228233,"qiryat yam, israel, israel",26.0,0
+1149,228276,"heidelberg, baden-wuerttemberg, germany",31.0,0
+1150,228276,"heidelberg, baden-wuerttemberg, germany",31.0,0
+1151,228618,"auckland, auckland, new zealand",,0
+1152,229013,"san jose, , usa",30.0,0
+1153,229068,"durham, north carolina, usa",,0
+1154,229199,"nepean, ontario, canada",51.0,0
+1155,229307,"sydney, new south wales, australia",46.0,0
+1156,230076,"enola, pennsylvania, usa",,0
+1157,230193,"baltimore, maryland, usa",31.0,0
+1158,230193,"baltimore, maryland, usa",31.0,0
+1159,230399,"marysville, kansas, usa",,0
+1160,230415,"toronto, ontario, canada",,0
+1161,230582,"canton, ohio, usa",,0
+1162,230767,"milton keynes, england, united kingdom",,0
+1163,230855,"augusta, georgia, usa",,1
+1164,231472,"boston, massachusetts, usa",,0
+1165,231625,"calgary, alberta, canada",56.0,0
+1166,231704,"dallas, texas, usa",,0
+1167,231794,"fresno, california, usa",36.0,0
+1168,232140,"springfield, missouri, usa",34.0,0
+1169,232148,"hilliard, ohio, usa",54.0,0
+1170,232226,"austin, texas, usa",34.0,0
+1171,232269,"vancouver, british columbia, canada",61.0,0
+1172,232380,"grand prairie, texas, usa",28.0,0
+1173,232703,"portland, oregon, usa",58.0,0
+1174,232711,"toronto, ontario, canada",21.0,0
+1175,232745,"juneau, alaska, usa",,0
+1176,232762,"virginia beach, virginia, usa",,0
+1177,233205,"bremen, indiana, usa",,0
+1178,233265,"san francisco, california, usa",,0
+1179,233901,"montreal, quebec, canada",29.0,0
+1180,234043,"sammamish, washington, usa",27.0,0
+1181,234260,"austin, texas, usa",,0
+1182,234695,"carlsbad, california, usa",,0
+1183,234835,"watchung, new jersey, usa",14.0,0
+1184,234849,"boston, massachusetts, usa",,0
+1185,235228,"mississauga, ontario, canada",,0
+1186,235521,"medford, oregon, usa",,0
+1187,235758,"grand rapids, michigan, usa",,0
+1188,235768,"south milwaukee, wisconsin, usa",43.0,0
+1189,235910,"bristow, virginia, usa",33.0,0
+1190,236079,"rocky hill, connecticut, usa",47.0,0
+1191,236151,"chesapeake, virginia, usa",47.0,0
+1192,236178,"brooklyn, new york, usa",,0
+1193,236644,"davis, california, usa",36.0,0
+1194,237153,"edmonton, alberta, canada",,0
+1195,237189,"maribel, wisconsin, usa",,0
+1196,237555,"chalfont, pennsylvania,",,0
+1197,237578,"pulaski, virginia, usa",,0
+1198,237703,"somerville, massachusetts, usa",,0
+1199,237763,"chicago, illinois, usa",20.0,0
+1200,237822,"grayson, georgia, usa",36.0,0
+1201,237972,"surrey, british columbia, canada",24.0,0
+1202,238201,"weehawken, new jersey, usa",,0
+1203,238555,"mt morris, illinois, usa",,0
+1204,238832,"chicago, illinois, usa",28.0,0
+1205,239127,"traverse city, michigan, usa",23.0,0
+1206,239869,"airdrie, alberta, canada",45.0,0
+1207,239906,"san francisco, california, usa",,0
+1208,239914,"mobile, alabama, usa",33.0,0
+1209,239995,"surrey, british columbia, canada",,0
+1210,240052,"dallas, texas, usa",30.0,0
+1211,240222,"liverpool, england, united kingdom",27.0,0
+1212,240353,"houston, texas, usa",45.0,0
+1213,240353,"houston, texas, usa",45.0,0
+1214,240454,"dodgeville, wisconsin, usa",28.0,0
+1215,240572,"mesquite, texas, usa",,0
+1216,240633,"delavan, wisconsin, usa",,0
+1217,241311,"houston, texas, usa",35.0,0
+1218,241339,"singapore, n/a, singapore",21.0,0
+1219,241348,"austin, texas, usa",,3
+1220,242049,"spokane, washington, usa",25.0,0
+1221,242124,"st. louis, missouri, usa",,0
+1222,242283,"elizabethtown, pennsylvania, usa",,0
+1223,242481,"brighton, england, united kingdom",,0
+1224,242542,"toronto, ontario, canada",62.0,0
+1225,242559,"toronto, ontario, canada",,0
+1226,242964,"detroit, michigan, usa",36.0,0
+1227,243512,"oakland, california, usa",44.0,0
+1228,243663,"baltimore, maryland, usa",57.0,0
+1229,243910,"buffalo grove, illinois, usa",24.0,0
+1230,244441,"royal oak, michigan, usa",,1
+1231,244722,"pacifica, california, usa",27.0,0
+1232,244796,"phoenix, arizona, usa",16.0,0
+1233,244986,"milwaukee, wisconsin, usa",35.0,0
+1234,244989,"staefa, zurich, switzerland",37.0,0
+1235,245068,"sterling, virginia, usa",,0
+1236,245455,"kiryat-yam, il, israel",0.0,0
+1237,245521,"toronto, ontario, canada",,0
+1238,245638,"ottawa, ontario, canada",58.0,0
+1239,245829,"northfield, vermont, usa",,0
+1240,245829,"northfield, vermont, usa",,0
+1241,246007,"brownsville, ontario, canada",,0
+1242,246170,"omaha, nebraska, usa",,0
+1243,246241,"albuquerque, new mexico, usa",,0
+1244,246666,"norwich, idaho, united kingdom",28.0,0
+1245,246856,"guangzhou, guangdong, china",33.0,0
+1246,246978,"huntsville, alabama, usa",57.0,0
+1247,247199,"chicago, illinois, usa",,0
+1248,247256,"toronto, ontario, canada",19.0,0
+1249,247523,"ploiesti, romania, romania",,0
+1250,247787,"houston, texas, usa",,3
+1251,247856,"mountain view, california, usa",,0
+1252,247902,"kuala lumpur, federal territory, malaysia",62.0,0
+1253,248115,"eureka, california, usa",,0
+1254,248361,"wahnapitae, ontario, canada",,0
+1255,248413,"glencoe, alabama, usa",45.0,0
+1256,248583,"vancouver, british columbia, canada",,0
+1257,249056,"margate, florida, usa",,0
+1258,249077,"barcelona, barcelona, spain",0.0,0
+1259,249079,"santa cruz, california, usa",,0
+1260,249159,"colorado springs, colorado, usa",54.0,0
+1261,249159,"colorado springs, colorado, usa",54.0,0
+1262,249159,"colorado springs, colorado, usa",54.0,0
+1263,249346,"decatur, alabama, usa",48.0,0
+1264,249600,"college station, texas, usa",,0
+1265,249937,"saint paul, minnesota, usa",,0
+1266,249990,"ottawa, ontario, canada",36.0,0
+1267,250060,"fenton, michigan, usa",36.0,0
+1268,250070,"williston park, new york, usa",,0
+1269,250161,"banks, oregon, usa",,0
+1270,250186,"island, kentucky, usa",30.0,0
+1271,250259,"pittsburgh, pennsylvania, usa",18.0,0
+1272,250370,"bonners ferry, idaho, usa",,0
+1273,250425,"louisville, kentucky, usa",,0
+1274,250618,"los angeles, california, usa",,0
+1275,251277,"toronto, ontario, canada",,0
+1276,251365,"carmichael, california, usa",,0
+1277,251410,"melbourne, victoria, australia",15.0,0
+1278,251546,"chippendale, new south wales, australia",25.0,0
+1279,252056,"santa barbara, california, usa",60.0,0
+1280,252203,"new york, new york, usa",56.0,0
+1281,252982,"cologne/köln, nordrhein-westfalen, germany",31.0,0
+1282,253460,"thornton, colorado, usa",,0
+1283,253624,"sault ste. marie, ontario, canada",,0
+1284,254118,"greenfield, indiana, usa",31.0,0
+1285,254236,"st. louis, missouri, usa",37.0,0
+1286,254400,"concord, california, usa",,0
+1287,254438,"knoxville, tennessee, usa",,0
+1288,254568,"belize city, n/a, belize",31.0,0
+1289,254666,"seattle, washington, usa",,0
+1290,254666,"seattle, washington, usa",,0
+1291,254674,"portland, oregon, usa",42.0,0
+1292,254697,"santa monica, california, usa",,0
+1293,254930,"moron, buenos aires, argentina",17.0,0
+1294,255065,"springfield, virginia, usa",54.0,0
+1295,255402,"gawler, south australia, australia",40.0,0
+1296,255554,"santa barbara, california, usa",36.0,0
+1297,255568,"davenport, iowa, usa",33.0,0
+1298,255934,"sulphur, louisiana, usa",50.0,0
+1299,255936,"portland, oregon, usa",,0
+1300,256384,"santa ana, california, usa",,0
+1301,256417,"san diego, california, usa",,0
+1302,256819,"petaluma, california, usa",,0
+1303,256954,"la, california, usa",,0
+1304,256961,"volcano, hawaii, usa",,0
+1305,257439,"barboursville, virginia, usa",34.0,0
+1306,257741,"los angeles, california, usa",,0
+1307,257817,"adelaide, south australia, australia",48.0,3
+1308,258117,"harrisburg, pennsylvania, usa",29.0,3
+1309,258514,"berkeley, california, usa",,0
+1310,258827,"carmel, indiana, usa",14.0,0
+1311,259481,"indianapolis, indiana, usa",,0
+1312,259515,"seattle, washington, usa",40.0,0
+1313,259522,"columbia, missouri, usa",,0
+1314,259690,"littleton, colorado, usa",26.0,0
+1315,259733,"stockholm, stockholm, sweden",33.0,0
+1316,259929,"norfolk, virginia, usa",,0
+1317,260101,"atlanta, georgia, usa",,0
+1318,260199,"richmond, british columbia, canada",,0
+1319,260346,"hackettstown, new jersey, usa",,0
+1320,260509,"albuquerque, new mexico, usa",42.0,0
+1321,260702,"napa, california, usa",,0
+1322,260757,"pittsburgh, pennsylvania, usa",32.0,0
+1323,260884,"lahore, punjab, pakistan",22.0,0
+1324,260975,"minneapolis, minnesota, usa",,0
+1325,261380,"roswell, georgia, usa",,0
+1326,261836,"helsinki, uusimaa, finland",32.0,0
+1327,261844,"puerto vallarta, jalisco, mexico",,0
+1328,262620,"north pole, alaska, usa",34.0,0
+1329,262664,"brigham city, utah, usa",23.0,1
+1330,262671,"trinidad, california, usa",,0
+1331,262979,"tulsa, oklahoma, usa",71.0,0
+1332,263158,"grand rapids, michigan, usa",24.0,0
+1333,263248,"toronto, ontario, canada",29.0,0
+1334,263606,"landers, california, usa",,0
+1335,263606,"landers, california, usa",,0
+1336,263665,"minneapolis, minnesota, usa",46.0,0
+1337,263840,"lutz, florida, usa",,0
+1338,264097,"brookline, massachusetts, usa",,0
+1339,264448,"oslo, oslo, norway",,0
+1340,264521,"hanford, california, usa",36.0,0
+1341,264544,"raleigh, north carolina, usa",,0
+1342,265104,"vancouver, british columbia, canada",,0
+1343,265254,"salvisa, kentucky, usa",16.0,0
+1344,266157,"wasaga beach, ontario, canada",34.0,0
+1345,266403,"bowie, maryland, usa",,0
+1346,266476,"corydon, iowa, usa",47.0,0
+1347,266583,"los angeles, california, usa",,0
+1348,266595,"weare, new hampshire, usa",41.0,0
+1349,266637,"irving, texas, usa",,0
+1350,266718,"boston, massachusetts, usa",,0
+1351,266742,"boulder, colorado, usa",45.0,0
+1352,266904,"anchorage, alaska, usa",,0
+1353,267358,"lilburn, georgia, usa",32.0,0
+1354,267495,"sarasota, florida, usa",,0
+1355,267697,"seattle, washington, usa",35.0,0
+1356,267698,"nyc, new york, usa",,0
+1357,267976,"auckland, n/a, new zealand",55.0,0
+1358,268319,"naas, kildare, ireland",46.0,0
+1359,268323,"london, england, united kingdom",,0
+1360,268752,"quincy, massachusetts, usa",23.0,0
+1361,268821,"ottawa, ontario, canada",21.0,0
+1362,269056,"croton-on-hudson, new york, usa",,0
+1363,269166,"portland, oregon, usa",35.0,0
+1364,269342,"melbourne, victoria, australia",21.0,0
+1365,269453,"woodstock, ontario, canada",,0
+1366,269796,"central hainesville, new brunswick, canada",18.0,0
+1367,270472,"tuscaloosa, alabama, usa",,0
+1368,270808,"fort collins, colorado, usa",,0
+1369,270849,"saint john, new brunswick, canada",30.0,0
+1370,271026,"singapore, n/a, singapore",,0
+1371,271180,"santa barbara, california, usa",,0
+1372,271537,"killeen, texas, usa",,0
+1373,271578,"redlands, california, usa",,0
+1374,272510,"great falls, montana, usa",32.0,0
+1375,273397,"spokane, washington, usa",,1
+1376,273939,"miami, florida, usa",14.0,0
+1377,274027,"louisville, kentucky, usa",,0
+1378,274242,"kosice, kosice, slovakia",,0
+1379,274312,"ottawa, ,",43.0,0
+1380,274624,"lelystad, lelystad, netherlands",44.0,0
+1381,274781,"eugene, oregon, usa",,0
+1382,275339,"stanmore, new south wales, australia",,0
+1383,275375,"peoria, illinois, usa",14.0,0
+1384,275402,"hendersonville, tennessee, usa",47.0,0
+1385,275560,"glendale, arizona, usa",,0
+1386,275756,"hudson, illinois, usa",32.0,0
+1387,275817,"hamburg, pennsylvania, usa",46.0,0
+1388,276264,"south bend, indiana, usa",,1
+1389,276323,"hamilton, new jersey, usa",,0
+1390,276706,"quebec, quebec, canada",18.0,0
+1391,277188,"waterloo, ontario, canada",42.0,0
+1392,277528,"redondo beach, california, usa",48.0,0
+1393,277569,"los osos, california, usa",,0
+1394,277908,"new orleans, louisiana, usa",,0
+1395,278203,"richmond, virginia, usa",38.0,0

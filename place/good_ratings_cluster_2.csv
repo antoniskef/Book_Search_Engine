@@ -1,0 +1,163 @@
+,uid,location,age,rating
+0,7429,"pollock pines, california, usa",73.0,8
+1,7928,"durand, michigan, usa",39.0,8
+2,10076,"dale, indiana, usa",34.0,9
+3,12674,"fredonia, kansas, usa",,9
+4,13747,"new plymouth, taranaki, new zealand",36.0,9
+5,16520,"lake forest park, ,",,9
+6,17167,"richmond, british columbia, canada",30.0,8
+7,18059,"phoenix, arizona, usa",38.0,9
+8,18114,"olympia, washington, usa",47.0,8
+9,19515,"tacoma, washington, usa",39.0,8
+10,19586,"milford, new jersey, usa",42.0,10
+11,21311,"winter haven, , usa",,10
+12,21311,"winter haven, , usa",,10
+13,22947,"lancaster, new hampshire, usa",25.0,8
+14,24622,"amity harbor, new york, usa",,8
+15,27135,"saint charles, missouri, usa",,8
+16,29128,"vars, ontario, canada",,8
+17,29866,"austin, texas, usa",,9
+18,30628,"lincoln, nebraska, usa",,8
+19,32084,"canoga park, california, usa",,8
+20,32134,"wilmington, delaware, usa",27.0,9
+21,33405,"kelseyville, california, usa",33.0,8
+22,35045,"san francisco, california, usa",18.0,8
+23,35794,"westlake village, california, usa",,9
+24,37020,"roseville, michigan, usa",,10
+25,37578,"buffalo, new york,",,10
+26,38527,"watersmeet, michigan, usa",75.0,8
+27,38606,"creston, british columbia, canada",30.0,10
+28,41231,"dublin, california, antigua and barbuda",35.0,8
+29,42129,"ostrander, ohio, usa",,10
+30,45405,"clinton, washington, usa",,10
+31,45642,"madera, california, usa",,10
+32,46307,"marion, indiana, usa",,8
+33,47835,"saint-nicolas, quebec, canada",33.0,10
+34,48750,"wetaskiwin, alberta, canada",,8
+35,50309,"jacksonville, tx., cherokee",51.0,8
+36,54200,"plainfield, ontario, canada",,8
+37,55404,"arnol, missouri, usa",46.0,9
+38,59204,"indianapolis, indiana, usa",,9
+39,59268,"albuquerque, new mexico, usa",,10
+40,60086,"chelsea, alabama, usa",,8
+41,64146,"chehalis, washington, usa",,8
+42,64180,"perry hall, maryland, usa",29.0,8
+43,65003,"milwaukee, wisconsin, usa",41.0,8
+44,66067,"houma, louisiana, usa",36.0,8
+45,67786,"westerville, ohio, usa",23.0,9
+46,68487,"euclid, ohio, usa",,8
+47,70543,"buffalo, new york, usa",25.0,9
+48,70543,"buffalo, new york, usa",25.0,9
+49,73122,"london, london, united kingdom",,9
+50,82589,"calgary, alberta, canada",,8
+51,83335,"columbus, georgia, usa",16.0,8
+52,84526,"moscow mills, missouri, usa",,10
+53,85464,"white, georgia, usa",14.0,9
+54,85500,"west linn, oregon, usa",48.0,8
+55,86302,"sault ste. marie, ontario, canada",29.0,8
+56,88035,"millville, new jersey, usa",,8
+57,88402,"alameda, california, usa",29.0,8
+58,91164,"nyc, , usa",31.0,10
+59,92678,"smyrna, tennessee, usa",27.0,10
+60,93175,"austin, ,",20.0,8
+61,98425,"mariposa, california, usa",,9
+62,99336,"denison, texas, usa",24.0,8
+63,101583,"st. louis, missouri, usa",,8
+64,105215,"haslett, michigan, usa",45.0,8
+65,105876,"edison, new jersey, usa",54.0,8
+66,106053,"westminster, california, usa",,9
+67,106626,"st petersburg, florida, usa",,8
+68,108351,"west bend, wisconsin, usa",59.0,8
+69,108898,"calgary, alberta, canada",,9
+70,110026,"lexington park, maryland, usa",,10
+71,111680,"uniontown, ohio, usa",52.0,10
+72,113153,"eastbourne, east sussex, united kingdom",51.0,8
+73,114959,"pensacola, florida, usa",,10
+74,117188,"sacramento, california, usa",48.0,8
+75,117453,"east berlin, pennsylvania, usa",,10
+76,117453,"east berlin, pennsylvania, usa",,9
+77,117634,"spokane, washington, usa",57.0,8
+78,119817,"port orange, ,",43.0,10
+79,127309,"melbourne, victoria, australia",,8
+80,128779,"minerva, ohio, usa",16.0,10
+81,135471,"mystic, connecticut, usa",17.0,9
+82,135889,"ocean grove, new jersey, usa",56.0,8
+83,137746,"flint, ,",16.0,8
+84,139031,"west fargo, north dakota, usa",36.0,8
+85,151805,"christchurch, n/a, new zealand",,10
+86,152321,"renton, washington, usa",36.0,9
+87,154294,"miramar, florida, usa",17.0,9
+88,154807,"perry, florida, usa",,9
+89,155247,"lakeland, florida, usa",0.0,8
+90,155276,"surrey, british columbia, canada",,10
+91,158540,"st. louis, missouri, usa",,8
+92,158848,"antioch, illinois, usa",,10
+93,161001,"hicksville, new york, usa",,10
+94,161939,"sacramento, california, usa",18.0,8
+95,161981,"san antonio, texas, usa",,8
+96,163043,"lakeland, florida, usa",,10
+97,164599,"saginaw, michigan, usa",24.0,8
+98,165239,"thomasville, georgia, usa",,8
+99,166316,"orleans, ontario, canada",,9
+100,166718,"oakland, california, usa",26.0,9
+101,166807,"ottawa, ontario, canada",,9
+102,167743,"mississauga, ontario, canada",54.0,9
+103,168491,"foley, missouri, usa",,8
+104,168809,"coral gables, florida, usa",,10
+105,169119,"lafayette, colorado, usa",46.0,10
+106,170879,"hartland, wisconsin, usa",33.0,8
+107,173010,"woodland, pennsylvania, usa",41.0,8
+108,173470,"newburgh, new york, usa",,8
+109,178085,"inverness, florida, usa",,8
+110,178505,"memphis, tennessee, usa",51.0,10
+111,182452,"pfafftown, north carolina, usa",19.0,10
+112,184111,"waterloo, ontario, canada",,8
+113,185089,"lumberton, new jersey, usa",,8
+114,187857,"stamford, connecticut, usa",60.0,10
+115,190429,"mousie, kentucky, usa",16.0,8
+116,193299,"florissant, missouri, usa",,8
+117,193731,"lochbuie, colorado, usa",19.0,10
+118,194513,"sherkston, ontario, canada",57.0,8
+119,201143,"long prairie, minnesota, usa",35.0,10
+120,207281,"dublin, ohio, usa",37.0,9
+121,208530,"amsterdam, noord holland, netherlands",,10
+122,209493,"ada, michigan, usa",,8
+123,209861,"bethalto, ,",,10
+124,209959,"dallas, ,",40.0,8
+125,209959,"dallas, ,",40.0,9
+126,210291,"corinth, texas, usa",58.0,8
+127,210291,"corinth, texas, usa",58.0,8
+128,218664,"summersville,, ,",,8
+129,226447,"madera, california, usa",,10
+130,226761,"duncan, oklahoma, usa",,8
+131,228540,"parkersburg, west virginia, usa",,8
+132,229013,"san jose, , usa",30.0,8
+133,231603,"gardendale, alabama, usa",,8
+134,232512,"austin, texas, usa",,8
+135,232734,"wlson, wyoming, usa",56.0,8
+136,238939,"raynham, massachusetts, usa",17.0,8
+137,238948,"new plymouth, taranaki, new zealand",70.0,8
+138,240404,"york haven, ,",,10
+139,240404,"york haven, ,",,10
+140,240434,"owen sound, ontario, canada",,10
+141,244165,"gothenburg, västra götaland, sweden",,10
+142,244655,"el centro, california, usa",69.0,8
+143,244727,"pierrefonds, quebec, canada",29.0,8
+144,244727,"pierrefonds, quebec, canada",29.0,10
+145,247328,"whitehall, pennsylvania, usa",,8
+146,249259,"san diego, ,",,8
+147,250989,"northbrook, illinois, usa",48.0,8
+148,255236,"chandler, arizona, usa",,10
+149,255952,"yorktown, virginia, usa",,8
+150,258182,"rosemount, minnesota, usa",32.0,8
+151,259691,"rosenberg, tx, fort bend",,9
+152,264938,"lexington, kentucky, usa",0.0,8
+153,268044,"baxter, minnesota, usa",,9
+154,268251,"gurnee, illinois, usa",26.0,9
+155,268251,"gurnee, illinois, usa",26.0,8
+156,268251,"gurnee, illinois, usa",26.0,9
+157,271189,"san antonio, texas, usa",22.0,8
+158,273279,"huntington beach, california, usa",63.0,9
+159,275575,"tehran, tehran, iran",35.0,8
+160,277432,"san leandro, california, usa",16.0,8
+161,278319,"agawam, massachusetts, usa",64.0,8

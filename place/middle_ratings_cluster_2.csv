@@ -1,0 +1,178 @@
+,uid,location,age,rating
+0,4148,"wallingford, kentucky, usa",20.0,5
+1,4203,"anchorage, alaska, usa",,5
+2,6029,"pine bush, new york, usa",,6
+3,7031,"summit, new jersey, usa",,6
+4,8738,"thornhill, ontario, canada",,7
+5,15470,"carlsbad, california, usa",38.0,5
+6,16077,"gordon, new south wales, australia",34.0,7
+7,16098,"seminole, florida, usa",,5
+8,17158,"chandler, arizona, usa",16.0,7
+9,17757,"dartmouth, nova scotia, canada",,5
+10,18601,"davis, california, usa",,5
+11,20630,"raleigh, north carolina, usa",,7
+12,23541,"quispamsis, new brunswick, canada",48.0,6
+13,24018,"colchester, connecticut, usa",61.0,7
+14,25521,"crawfordville, florida, usa",24.0,6
+15,30558,"lawndale, california, usa",17.0,7
+16,31768,"tigard, oregon, usa",,7
+17,32175,"gretna, louisiana, usa",,5
+18,33762,"palm city, florida, usa",,7
+19,34014,"mesa, arizona, usa",,5
+20,34572,"bountiful, utah, usa",53.0,7
+21,34967,"austin, texas, usa",50.0,7
+22,36247,"belleville, ontario, canada",,7
+23,38533,"cary, illinois, usa",39.0,6
+24,40125,"ottawa, ,",,5
+25,40826,"north delta, british columbia, canada",19.0,5
+26,40907,"colorado springs, colorado, usa",,7
+27,44290,"buzzards bay, massachusetts, usa",28.0,7
+28,45939,"fairplay, colorado, usa",33.0,7
+29,47433,"san antonio, texas, usa",,7
+30,51971,"barrie, ontario, canada",33.0,7
+31,54672,"cypress, california, usa",,6
+32,57996,"abbotsford, ,",,7
+33,58172,"wakefield, rhode island, usa",19.0,7
+34,60181,"charlottesville, wales, usa",63.0,7
+35,60854,"manchester, missouri, usa",,5
+36,61235,"delta junction, alaska, usa",54.0,7
+37,63131,"gaithersburg, maryland, usa",34.0,6
+38,64239,"montgomery, alabama, usa",,7
+39,65021,"pittsburgh, pennsylvania, usa",20.0,5
+40,70346,"westbank, british columbia, canada",,7
+41,76406,"somerset, new jersey, usa",,5
+42,78489,"fresno, california, usa",47.0,7
+43,81655,"westford, new york, usa",49.0,7
+44,82510,"st. louis, missouri, usa",,5
+45,82539,"maud, texas, usa",37.0,5
+46,86473,"rahway, new jersey, usa",47.0,7
+47,90791,"sanborn, iowa, usa",27.0,6
+48,92678,"smyrna, tennessee, usa",27.0,7
+49,92700,"storm lake, iowa, usa",71.0,7
+50,98745,"arlington, texas, usa",46.0,5
+51,98885,"port orchard, washington, usa",28.0,7
+52,98915,"london, , united kingdom",,5
+53,99809,"chicago, illinois, usa",,5
+54,100777,"round rock, texas, usa",,6
+55,101006,"green cove springs, florida, usa",67.0,6
+56,101155,"florence, south carolina, usa",52.0,6
+57,102173,"la mesa, california, usa",,5
+58,103040,"sumter, south carolina, usa",28.0,7
+59,104143,"north kingsville, ohio, usa",,7
+60,107654,"arlington, virginia, usa",33.0,5
+61,109335,"decatur, georgia, usa",,7
+62,110347,"brampton, ontario, canada",,4
+63,114688,"kingston, nova scotia, canada",24.0,7
+64,115664,"roanoke, virginia, usa",24.0,7
+65,116236,"iowa city, iowa, usa",,7
+66,117195,"columbus, ohio, usa",,6
+67,119509,"seki city, gifu, japan",,7
+68,121515,"louisiana, missouri, usa",,7
+69,127488,"perth, western australia, australia",19.0,7
+70,130535,"colorado springs, colorado, usa",,6
+71,131382,"centralia, washington, usa",,5
+72,132095,"deerfield, florida, usa",24.0,7
+73,132750,"weare, new hampshire, usa",,6
+74,132994,"creston, british columbia, canada",48.0,7
+75,133773,"college station, texas, usa",,7
+76,133919,"rochester, new york, usa",26.0,6
+77,134157,"wichita, kansas, usa",,5
+78,135123,"shawnee, oklahoma, usa",43.0,7
+79,137004,"new brighton, minnesota, usa",50.0,7
+80,138206,"saint louis, missouri, usa",26.0,5
+81,139031,"west fargo, north dakota, usa",36.0,5
+82,139031,"west fargo, north dakota, usa",36.0,7
+83,139031,"west fargo, north dakota, usa",36.0,5
+84,139031,"west fargo, north dakota, usa",36.0,5
+85,140576,"st. louis, missouri, usa",29.0,6
+86,140576,"st. louis, missouri, usa",29.0,5
+87,140775,"sandy, utah, usa",,5
+88,143019,"napa, california, usa",15.0,5
+89,143416,"preston, lancashire, united kingdom",38.0,4
+90,144110,"tulsa, oklahoma, usa",23.0,5
+91,146202,"chesapeake, virginia, usa",47.0,7
+92,146404,"collinsville, texas, usa",33.0,4
+93,147400,"maynard, massachusetts, usa",34.0,5
+94,154013,"richmond, kentucky, usa",54.0,5
+95,155861,"canvas, west virginia, usa",36.0,7
+96,160932,"new york, new york, usa",57.0,5
+97,162451,"seattle, washington, usa",41.0,5
+98,163881,"winthrop, massachusetts, usa",2.0,5
+99,167920,"st charles, missouri,",,6
+100,170387,"cobden, ontario, canada",71.0,5
+101,170857,"tulsa, oklahoma,",27.0,7
+102,170938,"warrenton, missouri,",,6
+103,173512,"flower mound, texas, usa",,7
+104,174674,"deland, florida, usa",,7
+105,174748,"gulfport, mississippi, usa",48.0,5
+106,175336,"ottawa, ontario, canada",44.0,6
+107,178158,"chandler, arizona, usa",,7
+108,179114,"martinsburg, west virginia, usa",27.0,7
+109,181224,"cheektowaga, new york, usa",23.0,6
+110,183528,"surrey, british columbia, canada",,5
+111,185053,"waikoloa, hawaii, usa",,6
+112,185860,"columbus, ohio, usa",,7
+113,188122,"northwood, north dakota, usa",,6
+114,189985,"avoca, new york, usa",50.0,5
+115,193378,"chardon, ohio, usa",26.0,6
+116,194191,"guess, arkansas, usa",15.0,5
+117,194191,"guess, arkansas, usa",15.0,7
+118,194191,"guess, arkansas, usa",15.0,5
+119,194586,"miramichi, new brunswick, canada",50.0,5
+120,195512,"new plymouth, taranaki, new zealand",55.0,7
+121,196085,"san antonio, texas, usa",47.0,5
+122,197879,"nekoosa, wisconsin, usa",26.0,6
+123,203529,"ottawa, ontario, canada",,6
+124,203714,"chino hills, california, usa",55.0,7
+125,207295,"dallas, texas, usa",,5
+126,208088,"denham springs, louisiana, usa",55.0,7
+127,208191,"lititz, pennsylvania, usa",,7
+128,209478,"wentzville, missouri, usa",40.0,5
+129,209493,"ada, michigan, usa",,7
+130,209493,"ada, michigan, usa",,7
+131,209573,"south yarmouth, massachusetts, usa",,6
+132,209959,"dallas, ,",40.0,5
+133,210292,"tampa, florida, usa",53.0,5
+134,210292,"tampa, florida, usa",53.0,6
+135,212085,"fredericton, new brunswick, canada",,5
+136,214348,"methuen, massachusetts, usa",66.0,6
+137,214434,"new york, new york, usa",,6
+138,215309,"london, london, united kingdom",,7
+139,217302,"selma, california, usa",21.0,5
+140,217302,"selma, california, usa",21.0,6
+141,217313,"san marcos, california, usa",,7
+142,218151,"charleston, south carolina, usa",,6
+143,219909,"ellensburg, washington, usa",,5
+144,223372,"mission viejo, california, usa",,7
+145,223586,"pittsburgh, pennsylvania, usa",,7
+146,223997,"cambridge, massachusetts, usa",52.0,6
+147,226976,"westbank, ,",,7
+148,228054,"erin, ontario, canada",39.0,6
+149,231714,"loveland, ohio, usa",,5
+150,232930,"sacramento, california, usa",40.0,7
+151,233556,"huntsville, texas, usa",,6
+152,237822,"grayson, georgia, usa",36.0,7
+153,238969,"south portland, maine, usa",,6
+154,240613,"lansing, michigan, usa",,5
+155,244455,"grand forks, british columbia, canada",,7
+156,248231,"richmond, virginia, usa",,7
+157,248324,"tecumseh, ontario, canada",,7
+158,249928,"fresno, california, usa",,7
+159,255065,"springfield, virginia, usa",54.0,7
+160,255627,"steubenville, ohio, usa",36.0,7
+161,257984,"madera, california, usa",24.0,5
+162,259337,"springfield, illinois, usa",49.0,6
+163,259691,"rosenberg, tx, fort bend",,5
+164,260829,"acushnet, massachusetts, usa",34.0,6
+165,263076,"sevierville, tennessee, usa",25.0,7
+166,264892,"riverside, california, usa",23.0,6
+167,266575,"warrenton, missouri, usa",,7
+168,267006,"mount gilead, ohio, usa",51.0,6
+169,267886,"saint joseph, missouri, usa",16.0,4
+170,268763,"charleston, south carolina, usa",63.0,7
+171,268960,"lowell, massachusetts, usa",,5
+172,271433,"tampa, florida, usa",42.0,5
+173,271615,"burnaby, british columbia, canada",22.0,7
+174,271615,"burnaby, british columbia, canada",22.0,6
+175,273418,"hinesville, georgia, usa",,6
+176,275818,"mesa, arizona, usa",48.0,7
