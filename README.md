@@ -20,7 +20,7 @@ c)
 
 
 ## Searching
-Anything can be searched from the BX-Books.csv using Elasticsearch by clicking the "SEARCH" button 
+Anything can be searched from the BX-Books.csv using Elasticsearch by clicking the "SEARCH" button. 
 
 ![image](https://user-images.githubusercontent.com/93796754/197303045-34c3c740-8f5f-4e0b-9dfc-87e3dd970a5a.png)
 
@@ -29,10 +29,10 @@ Anything can be searched from the BX-Books.csv using Elasticsearch by clicking t
 Books with bigger "rating" or "user_rating" are higher in the search results. 
 
 ## Neural Network 
-The neural network by using word embeddings (word2vec) predicts ratings of books depending on the taste of the user who uses the search engine. This makes better the sorting 
+The neural network by using word embeddings (word2vec) predicts ratings of books depending on the taste of the user who uses the search engine. This makes the sorting better.
 
 ## Clustering
-Use of K-means and word embeddings for book clustering (depending on their plot)
+Use of K-means and word embeddings for book clustering (depending on their plot).
 
 
 
